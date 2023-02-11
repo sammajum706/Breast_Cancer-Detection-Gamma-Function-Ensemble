@@ -14,7 +14,7 @@ For using the ensemble model utilising the base learners run the following:
 
 # Citation
 If you find this repository useful, please cite the work as follows:
-```
+
 @article{majumdar2023gamma,
   title={Gamma function based ensemble of CNN models for breast cancer detection in histopathology images},
   author={Majumdar, Samriddha and Pramanik, Payel and Sarkar, Ram},
@@ -24,4 +24,4 @@ If you find this repository useful, please cite the work as follows:
   year={2023},
   publisher={Elsevier}
 }
-```
+
